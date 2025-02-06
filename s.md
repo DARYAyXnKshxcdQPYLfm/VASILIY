@@ -1,4 +1,4 @@
-'''plantuml
+```plantuml
 @startuml
 actor Пользователь as п
 participant Онлайн_библиотека as о
@@ -33,4 +33,4 @@ deactivate о
 end alt
 end loop
 @enduml
-'''
+```
